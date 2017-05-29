@@ -1,5 +1,5 @@
 # PewDataSet_EDA
 
-DataSet retrieved from Pew Research Center:
+DataSet and questionaire can be found from the Pew Research Center Website:
 
 http://www.pewinternet.org/datasets/
